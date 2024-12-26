@@ -1,0 +1,182 @@
+[
+    {
+        "id": "funkopop-01",
+        "titulo": "Jinx",
+        "imagen": "https://rec-line.com/img/productos/800x800/889698756495.jpeg",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "funkopop-02",
+        "titulo": "Vi",
+        "imagen": "https://rec-line.com/img/productos/800x800/889698756525.webp",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 250
+    },
+    {
+        "id": "funkopop-03",
+        "titulo": "Silco",
+        "imagen": "https://rec-line.com/img/productos/800x800/889698756501.webp",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 550
+    },
+    {
+        "id": "funkopop-04",
+        "titulo": "Ekko",
+        "imagen": "https://rec-line.com/img/productos/800x800/889698756488.jpeg",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 444
+    },
+    {
+        "id": "funkopop-05",
+        "titulo": "Jaime Enrique",
+        "imagen": "https://rec-line.com/img/productos/800x800/889698801935.webp",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "funkopop-06",
+        "titulo": "Viktor",
+        "imagen": "https://frikimon.es/wp-content/uploads/2024/11/funko-pop-champion-vikton-1487-arcane.jpg",
+        "categoria": {
+            "nombre": "Arcane",
+            "id": "arcane"
+        },
+        "precio": 200
+    },
+    {
+        "id": "peluche-01",
+        "titulo": "Tresh",
+        "imagen": "https://www.tiendalolggwp.com/145-large_default/thresh.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "peluche-02",
+        "titulo": "Rengar",
+        "imagen": "https://www.tiendalolggwp.com/157-large_default/rengar.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 850
+    },
+    {
+        "id": "peluche-03",
+        "titulo": "Teemo",
+        "imagen": "https://www.tiendalolggwp.com/170-large_default/teemo.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 666
+    },
+    {
+        "id": "peluche-04",
+        "titulo": "Alistar",
+        "imagen": "https://www.tiendalolggwp.com/166-large_default/alistar.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "peluche-05",
+        "titulo": "Tibbers",
+        "imagen": "https://www.tiendalolggwp.com/460-large_default/tibbers.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "peluche-06",
+        "titulo": "Poro",
+        "imagen": "https://www.tiendalolggwp.com/192-large_default/poro.jpg",
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        },
+        "precio": 500
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera Proyecto: Fiora",
+        "imagen": "https://www.tiendalolggwp.com/201-large_default/camiseta-projecto-fiora-.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera League of Draven",
+        "imagen": "https://www.tiendalolggwp.com/205-large_default/camiseta-de-league-of-draven-.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera Blitzcrank's: Poro Roundup",
+        "imagen": "https://www.tiendalolggwp.com/625-large_default/camiseta-blitzcrank-lt3-poros.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Ekko",
+        "imagen": "https://www.tiendalolggwp.com/626-large_default/camiseta-de-ekko.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 4444
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Remera Esta noche iremos de caza",
+        "imagen": "https://www.tiendalolggwp.com/639-large_default/camiseta-esta-noche-iremos-de-caza.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 7300
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Remera Xin Zhao Reinos en guerra",
+        "imagen": "https://www.tiendalolggwp.com/475-large_default/camiseta-xin-zhao-de-los-reinos-en-guerra.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 9500
+    }
+]
